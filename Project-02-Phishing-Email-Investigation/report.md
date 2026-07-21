@@ -20,3 +20,8 @@ Result:
 
 ## Verdict
 This email is classified as a phishing attempt based on social engineering techniques and a deceptive domain name.
+
+## URLScan Findings
+- URLScan could not scan the domain because DNS resolution failed.
+- The phishing domain appears to be inactive or has been taken down.
+- This behavior is common for short-lived phishing infrastructure.
