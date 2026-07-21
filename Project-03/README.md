@@ -1,3 +1,8 @@
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Tool](https://img.shields.io/badge/Tool-VirusTotal-blue)
+![Category](https://img.shields.io/badge/Category-Malware%20Analysis-orange)
+![Level](https://img.shields.io/badge/Level-Beginner-success)
+
 # Project 3 – Malware Hash & File Reputation Analysis
 
 ## Overview
