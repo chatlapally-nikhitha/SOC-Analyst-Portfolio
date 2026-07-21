@@ -1,0 +1,20 @@
+From: Microsoft Security <security@microsoft-support-alert.com>
+
+To: employee@company.com
+
+Subject: Urgent: Your Microsoft 365 Account Will Be Suspended
+
+Date: July 21, 2026
+
+Dear User,
+
+We detected unusual activity on your Microsoft 365 account.
+
+To avoid account suspension, verify your account immediately using the secure link below:
+
+http://microsoft-security-verification-login.com
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Thank you,
+Microsoft Security Team
