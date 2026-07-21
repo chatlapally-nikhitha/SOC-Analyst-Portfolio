@@ -25,3 +25,10 @@ This email is classified as a phishing attempt based on social engineering techn
 - URLScan could not scan the domain because DNS resolution failed.
 - The phishing domain appears to be inactive or has been taken down.
 - This behavior is common for short-lived phishing infrastructure.
+
+
+## WHOIS Findings
+
+- No WHOIS record was found for the domain.
+- This indicates the domain may have expired, been removed, or is no longer registered.
+- Short-lived phishing domains commonly disappear after being reported or taken down.
