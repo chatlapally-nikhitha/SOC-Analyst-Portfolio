@@ -58,4 +58,25 @@ project-03/
 
 ## Outcome
 
+
+---
+
+## Key Findings
+
+- The submitted file hash was successfully analyzed using VirusTotal.
+- Multiple antivirus engines identified the file as malicious.
+- The analysis provided valuable Indicators of Compromise (IOCs) for incident response.
+- The investigation concluded that the file poses a security risk and should not be executed.
+
+---
+
+## What I Learned
+
+Through this project, I learned how to:
+- Analyze file hashes using VirusTotal.
+- Interpret malware detection results.
+- Identify Indicators of Compromise (IOCs).
+- Document findings in a professional SOC investigation report.
+- Organize cybersecurity evidence in a GitHub portfolio.
+
 The investigation confirmed that the analyzed file hash is malicious based on VirusTotal detection results. Appropriate containment and remediation actions were recommended.
