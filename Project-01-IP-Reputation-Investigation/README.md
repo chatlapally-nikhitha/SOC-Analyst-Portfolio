@@ -1,39 +1,77 @@
-# Project 01 – IP Reputation Investigation
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Tool](https://img.shields.io/badge/Tools-VirusTotal%20%7C%20AbuseIPDB-blue)
+![Category](https://img.shields.io/badge/Category-SOC%20Alert%20Triage-orange)
+![Level](https://img.shields.io/badge/Level-Beginner-success)
+
+# Project 1 – SOC Alert Triage & IP Reputation Investigation
 
 ## Overview
 
-This project demonstrates how a SOC Analyst investigates the reputation of an IP address using multiple Open Source Intelligence (OSINT) platforms.
+This project demonstrates how a Security Operations Center (SOC) analyst investigates a suspicious IP address using open-source threat intelligence tools. The objective is to determine whether the IP is malicious and document the investigation.
+
+---
 
 ## Objective
 
-Determine whether the IP address is malicious or legitimate by analyzing threat intelligence from different sources.
+- Investigate a suspicious IP address.
+- Verify the IP reputation.
+- Identify Indicators of Compromise (IOCs).
+- Document the investigation process.
 
-## IP Investigated
-
-**8.8.8.8 (Google Public DNS)**
+---
 
 ## Tools Used
 
 - VirusTotal
 - AbuseIPDB
-- WHOIS
+
+---
+
+## Investigation Workflow
+
+1. Received a suspicious IP address.
+2. Checked the IP reputation using VirusTotal.
+3. Verified abuse reports using AbuseIPDB.
+4. Reviewed threat intelligence results.
+5. Documented findings.
+6. Created an investigation report.
+
+---
 
 ## Skills Demonstrated
 
+- SOC Alert Triage
 - IP Reputation Analysis
 - Threat Intelligence
-- IOC Investigation
-- OSINT
-- Security Analysis
-- Technical Documentation
+- IOC Analysis
+- Security Documentation
+- Incident Investigation
 
-## Project Files
+---
 
-- `README.md` – Project overview
-- `report.md` – Investigation report
-- `P01_VIRUSTOTAL_1.pdf` – VirusTotal evidence
-- `P01_ABUSEIPDB.pdf` – AbuseIPDB evidence
+## Repository Structure
 
-## Conclusion
+```text
+project-01/
+├── README.md
+├── reports/
+│   └── report_01.docx
+└── evidence/
+    ├── VirusTotal.png
+    ├── AbuseIPDB.png
+```
 
-The investigation confirmed that **8.8.8.8** is a legitimate Google Public DNS server. No evidence indicated malicious activity based on VirusTotal, AbuseIPDB, and WHOIS analysis.
+---
+
+## Outcome
+
+The IP reputation investigation was completed using VirusTotal and AbuseIPDB. The collected evidence helped determine the reputation of the IP address and supported an informed security assessment.
+
+---
+
+## What I Learned
+
+- How to investigate suspicious IP addresses.
+- How to use VirusTotal and AbuseIPDB.
+- How to analyze threat intelligence results.
+- How to document a SOC investigation professionally.
